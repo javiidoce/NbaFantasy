@@ -4,7 +4,7 @@ date = 2023-10-04T18:58:59+02:00
 draft = false
 +++
 
-![estados_unidos](estadosUnidos.jpeg)
+![estados_unidos](/images/estadosUnidos.jpeg)
 ***
 Un nuevo fracaso de Estados Unidos en competiciones FIBA puede haber servido como llamamiento para las grandes súper estrellas de cara a los **Juegos Olímpicos de París 2024**.
 

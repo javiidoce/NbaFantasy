@@ -4,7 +4,7 @@ date = 2023-10-04T18:54:54+02:00
 draft = false
 +++
 
-![lillard_en_bucks](/images/lillard.jpg)
+![lillard_en_bucks](static/images/lillard.jpg)
 ***
 La NBA quedó expectante en el momento que **Damian Lillard se sentó con los dirigentes de los Portland Trail Blazers para comunicarles la noticia que no querían escuchar: pidió un traspaso con Miami Heat como destino ideal.** Más allá de los constantes ida y vuelta con el equipo liderado por Jimmy Butler, las ofertas nunca fueron suficientes y la posibilidad de mudarse al estado de Florida se enfrió lentamente. Cuando asomaba la posibilidad de que el base se quede un año más en la escuadra que lo drafteó en 2012, un inesperado acuerdo sorprendió a todos los fanáticos.
 

@@ -6,7 +6,7 @@ draft = false
 
 ## Plantilla de Los Angeles Lakers
 ### *Año 2023-2024*
-![equipo_lakers](/images/lakers.webp)
+![equipo_lakers](static/images/lakers.webp)
 ***
 **Bases/Escoltas**: D'Angelo Russell, Gabe Vincent, J. Hood-Schifi, Scotty Pippen Jr, Austin Reaves, Max Christie, D'Moi Hodge.
 ***

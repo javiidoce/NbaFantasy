@@ -4,6 +4,7 @@
       &copy; {{ with .Site.Copyright | default .Site.Title }} {{ . | safeHTML }} {{ now.Format "2006"}} {{ end }}
     </a>
     <div>{{ partial "social-follow.html" . }}</div>
-    <div class="f4 fw4 white-70 dn dib-ns pv2 ph3">{{ .Site.Params.author }}</div><!--he creado esta variable para que el footer coja el nombre que esta puesto de autor en el archivo "hugo.toml"-->
+    <div class="f4 fw4 white-70 dn dib-ns pv2 ph3">{{ .Site.Params.author }}</div>
+    <div class="f4 fw4 white-70 dn dib-ns pv2 ph3">{{ .Site.Params.creation_date }}</div>
   </div>
 </footer>

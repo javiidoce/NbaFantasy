@@ -18,7 +18,7 @@ enableRobotsTXT = true
 [params]
   text_color = ""
   author = "Javier Melendo"
-  site_logo = "images/nba-logo.png"
+  site_logo = "https://javiidoce.github.io/NbaFantasy/images/nba-logo.png"
   # choose a background color from any on this page: https://tachyons.io/docs/themes/skins/ and preface it with "bg-"
   background_color_class = "bg-purple"
   recent_posts_number = 3

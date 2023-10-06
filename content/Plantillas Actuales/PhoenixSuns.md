@@ -6,7 +6,7 @@ draft = false
 
 ## Plantilla de los Phoenix Suns año 2023/2024
 ### *Año 2023-2024*
-![equipo_suns](https://javiidoce.github.io/NbaFantasy/images/partido4.jpeg/images/suns.webp)
+{{< imagen nombre="suns.webp" alt="plantilla-suns" >}}
 ***
 **Bases/Escoltas**: Jordan Goodwin, Devin Booker, Bradley Beal, Damion Lee, Eric Gordon, Grayson Allen.
 ***

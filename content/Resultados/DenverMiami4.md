@@ -5,7 +5,7 @@ draft = false
 +++
 
 ## Victoria para Denver que pone la serie 3-1 a favor
-![cuarto_partido](https://javiidoce.github.io/NbaFantasy/images/partido4.jpeg)
+{{< imagen nombre="partido4.jpeg" alt="partido4" >}}
 ***
 Los Denver Nuggets derrotaron este viernes **108-95** al Miami Heat en el Kaseya Center y lo pusieron sobre las cuerdas con una serie de **3-1 y podrían conseguir el título de la NBA el próximo lunes en casa.**
 

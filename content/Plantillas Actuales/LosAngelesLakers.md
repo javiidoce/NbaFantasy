@@ -6,7 +6,7 @@ draft = false
 
 ## Plantilla de Los Angeles Lakers
 ### *Año 2023-2024*
-![equipo_lakers](https://javiidoce.github.io/NbaFantasy/images/partido4.jpeg/images/lakers.webp)
+{{< imagen nombre="lakers.webp" alt="plantilla-lakers" >}}
 ***
 **Bases/Escoltas**: D'Angelo Russell, Gabe Vincent, J. Hood-Schifi, Scotty Pippen Jr, Austin Reaves, Max Christie, D'Moi Hodge.
 ***

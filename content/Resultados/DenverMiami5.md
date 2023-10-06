@@ -5,7 +5,7 @@ draft = false
 +++
 
 ## Denver consigue el primer anillo de su historia en un 5º partido ajustado
-![quinto_partido](https://javiidoce.github.io/NbaFantasy/images/partido4.jpeg/images/partido5.jpg)
+{{< imagen nombre="partido5.jpg" alt="partido5" >}}
 ***
 ¡Se acabó la espera! **Los Denver Nuggets lograron su primer título en la NBA**, luego de que tuvieron que venir de atrás para derrotar a Miami Heat **94-89** en el Juego 5 de las Finales en el Ball Arena.
 

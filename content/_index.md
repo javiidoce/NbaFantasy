@@ -8,3 +8,4 @@ cascade:
   featured_image: 'https://javiidoce.github.io/NbaFantasy/images/index.webp'
 ---
 Bienvenido a mi blog en el cual podrás informarte de las ultimas noticias, resultados y plantillas de la NBA
+{{< youtube video="X7lF2Pga2mE" >}}

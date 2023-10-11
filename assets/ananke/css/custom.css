@@ -1,6 +1,3 @@
-.pagination li.active a,
-.pagination li.active a:link,
-.pagination li.active a:active,
-.pagination li.active a:visited {
-  background-color: blue;
+body {
+  text-align: left;
 }

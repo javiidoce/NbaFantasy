@@ -27,5 +27,5 @@ enableRobotsTXT = true
   custom_css = ["custom.css","special.css"]
 
 [[params.ananke_socials]]
-name = "twitter"
-url = "https://twitter.com/javiidoce"
+  name = "twitter"
+  url = "https://twitter.com/javiidoce"
